@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the associated article and repository."
+title: "BERTidRAAF for AI-Driven Recruitment: Reproducible BERT-IDF Rare-Aware Adaptive Fusion Benchmark for CV Classification"
+authors:
+  - family-names: Haddad
+    given-names: Omar
+  - family-names: Omri
+    given-names: Mohamed Nazih
+version: "1.0.0"
+date-released: "2026-05-08"
+repository-code: "https://github.com/omarhaddad-projects/BERTidRAAF_for_AI-Driven_Recruitment"
+keywords:
+  - BERT
+  - IDF
+  - CV classification
+  - AI-driven recruitment
+  - rare-aware adaptive fusion
+  - reproducible benchmark
+license: "Other"

@@ -1,0 +1,20 @@
+name: bertidraaf
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - requests
+  - tqdm
+  - openpyxl
+  - pip
+  - pip:
+      - torch>=2.3.0
+      - transformers>=4.44.2
+      - accelerate>=0.34.2
